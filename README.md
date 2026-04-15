@@ -91,7 +91,7 @@ db/
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/didark90/event-mangment-project1.git
 cd eventhub
 ```
 
